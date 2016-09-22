@@ -44,7 +44,7 @@ of those sections to manage the look and feel of the site. */
 	padding-top: 150px;
 	padding-bottom: 150px;
 	text-align: left;
-	background: #fff
+	background: #eee
 }
 
 .schedule-section {
@@ -56,6 +56,14 @@ of those sections to manage the look and feel of the site. */
 }
 
 .sponsors-section {
+	/* height: 100%; */
+	padding-top: 150px;
+	padding-bottom: 150px;
+	text-align: left;
+	background: #fff;
+}
+
+.submission-section {
 	/* height: 100%; */
 	padding-top: 150px;
 	padding-bottom: 150px;
